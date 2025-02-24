@@ -1,10 +1,10 @@
-# KearneyCRA-TS
+#kCRA-TS
  
-This repository serves as a template for my CRA TypeScript projects. It includes the following:
+This repository serves as a personal template for my CRA TypeScript projects. It is a create-react-app template with TypeScript and a few other configurations commonly that I use in my projects.
 
 - Included and pre-configured Font [Inter](https://fonts.google.com/specimen/Inter/license)
 
-# Getting Started with K-CRA-TS
+# Getting Started with kCRA-TS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
