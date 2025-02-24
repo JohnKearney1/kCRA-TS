@@ -1,4 +1,4 @@
-#kCRA-TS
+# kCRA-TS
  
 This repository serves as a personal template for my CRA TypeScript projects. It is a create-react-app template with TypeScript and a few other configurations commonly that I use in my projects.
 
